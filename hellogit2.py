@@ -1,1 +1,1 @@
-print("aca me voy a mandar un moco, no 2 mocos te mandaste")
+print("aca me voy a mandar un moco,")
